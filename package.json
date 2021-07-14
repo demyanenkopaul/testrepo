@@ -17,9 +17,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/evrubin/DockerAddressBook"
+    "url": "git+https://github.com/demyanenkopaul/testrepo"
   },
-  "homepage": "https://github.com/evrubin/DockerAddressBook#readme",
+  "homepage": "https://github.com/demyanenkopaul/testrepo#readme",
   "dependencies": {
     "chai-http": "^3.0.0",
     "express": "^4.15.2",
